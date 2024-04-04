@@ -1,0 +1,10 @@
+
+=== Thu Apr  4 12:52:08 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.4
+The following packages were updated:
+  com.unity.feature.2d from version 1.0.0 to 2.0.0
